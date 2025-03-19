@@ -1,2 +1,3 @@
-D1
-D2
+The "Dataset_space_data" file contains location information, including latitude and longitude, for each dataset. 
+The spatio-temporal daily data for the three variables used in the analysis (PM₁₀, PM₂.₅, and CO) are stored separately as "Dataset__data". 
+All datasets consist of daily observations with missing values appropriately handled.
